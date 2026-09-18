@@ -206,6 +206,7 @@ span:hover{
         flex-direction: column;
         justify-content: center;
         height: 200px;
+        color: gray;
         
     }
 
@@ -213,6 +214,7 @@ span:hover{
     background-color: rgba(60, 60, 60, 0.7);
     width: 100%;
     height: 600px;
+    color: gray;
     }
 
     
@@ -237,6 +239,8 @@ li{
     width: 90%;
     border: solid 1px black;
     padding: 0px 10px;
+    background-color: gray;
+    color: black;
 }
 
 span:hover{
